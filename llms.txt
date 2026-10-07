@@ -22,6 +22,8 @@
 - Latin America (Español): https://nick-1xbet-manager.github.io/latam/
 - Nigeria, Kenya, Ghana (English): https://nick-1xbet-manager.github.io/nigeria/
 
+- Affiliate offer & GEO availability: https://nick-1xbet-manager.github.io/offer/
+
 ## Partner bots
 - Uzbekistan: https://t.me/partners1xbet_uzb_bot
 - Francophone Africa: https://t.me/partners1xbet_afrique_bot

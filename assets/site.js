@@ -1,7 +1,8 @@
 /* Nick — 1xBet Affiliate Manager · motion + map (no libraries) */
 (function () {
   'use strict';
-  var RM = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // Анимации всегда: системное «уменьшить движение» не учитываем (решение владельца).
+  var RM = false;
   var FINE = window.matchMedia('(pointer: fine)').matches;
   var T = window.I18N || {};
   var $ = function (s, r) { return (r || document).querySelector(s); };

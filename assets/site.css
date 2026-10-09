@@ -340,9 +340,5 @@ dialog[open]{animation:pop .35s var(--slam)}
   .final .stripes{display:none}
   .ft{padding-bottom:100px}
 }
-@media (prefers-reduced-motion:reduce){
-  *,*::before,*::after{animation-duration:.01ms!important;animation-delay:0s!important;transition-duration:.01ms!important;transition-delay:0s!important;scroll-behavior:auto!important}
-  .hero h1 .w>span{transform:none}
-  .k-word span,.k-text,.k-hero span{opacity:1!important;transform:none!important}
-  .fadein{opacity:1}
-}
+/* Анимации показываются всем, в том числе при системном «уменьшить движение»
+   (на Windows это «Эффекты анимации»): решение владельца сайта. */

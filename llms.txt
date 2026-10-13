@@ -1,6 +1,6 @@
 # Nick — 1xBet Affiliate Manager
 
-> Personal contact page of Nick, an affiliate manager working with the 1xBet affiliate program (1xPartners). Telegram: @aff_manager_xbet (https://t.me/aff_manager_xbet). Verified on check.partners. Not the official 1xBet website.
+> Personal contact page of Nick (now at https://1xbetmanager.com/), an affiliate manager working with the 1xBet affiliate program (1xPartners). Telegram: @aff_manager_xbet (https://t.me/aff_manager_xbet). Verified on check.partners. Not the official 1xBet website.
 
 ## Key facts
 - Name: Nick
@@ -15,14 +15,8 @@
 - Register: https://reffpa.com/L?tag=d_5266895m_2528c_&site=5266895&ad=2528
 
 ## Pages
-- English (worldwide): https://nick-1xbet-manager.github.io/
-- Uzbekistan (O'zbekcha): https://nick-1xbet-manager.github.io/uz/
-- Francophone Africa (Français): https://nick-1xbet-manager.github.io/afrique/
-- CIS (Русский): https://nick-1xbet-manager.github.io/cis/
-- Latin America (Español): https://nick-1xbet-manager.github.io/latam/
-- Nigeria, Kenya, Ghana (English): https://nick-1xbet-manager.github.io/nigeria/
-
-- Affiliate offer & GEO availability: https://nick-1xbet-manager.github.io/offer/ (also in Uzbek /uz/offer/, French /afrique/offer/, Russian /cis/offer/, Spanish /latam/offer/)
+- Main site (moved): https://1xbetmanager.com/
+- Offer PDFs: https://nick-1xbet-manager.github.io/offer/1xBet_Offer.pdf, https://nick-1xbet-manager.github.io/offer/1xBet_GEO.pdf
 
 ## Partner bots
 - Uzbekistan: https://t.me/partners1xbet_uzb_bot
